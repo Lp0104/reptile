@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*- #
+
+# ------------------------------------------------------------------
+# File Name:        main.py
+# Author:           cx
+# Version:          ver0_1
+# Created:          2023/8/18
 import execjs
 import requests
 import urllib3
